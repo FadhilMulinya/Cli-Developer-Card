@@ -1,0 +1,36 @@
+{
+  "name": "fadhil",
+  "version": "1.0.0",
+  "description": "My Personal Developer Card Profile ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FadhilMulinya/Cli-Developer-Card.git"
+  },
+  "keywords": [
+    "cli",
+    "profile",
+    "personal-card",
+    "de-profile",
+    "developer-card",
+    "portfolio",
+    "contact-info",
+    "terminal",
+    "npm-card",
+    "open-source",
+    "developer-tools",
+    "interactive-card"
+  ],
+  "author": "fadhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FadhilMulinya/Cli-Developer-Card/issues"
+  },
+  "homepage": "https://github.com/FadhilMulinya/Cli-Developer-Card#readme",
+  "bin": {
+  "fadhil": "./index.mjs"
+}
+}
